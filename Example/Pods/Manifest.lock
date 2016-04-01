@@ -1,0 +1,14 @@
+PODS:
+  - Ora (0.1.0)
+
+DEPENDENCIES:
+  - Ora (from `../`)
+
+EXTERNAL SOURCES:
+  Ora:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Ora: 34e91d35b1fbdd312b173013c7a44d5e8332413f
+
+COCOAPODS: 0.39.0
